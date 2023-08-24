@@ -7,11 +7,15 @@ Welcome to the Batik Classification project! This repository contains a deep lea
 3. [Results](#results)
 
 ## Project Overview
-Batik is a traditional textile art form originating from Indonesia. This project aims to classify different types of batik patterns using a deep learning model based on the AlexNet architecture. The model is trained on a dataset of batik patterns to recognize and categorize them accurately.
+Batik is a traditional textile art form originating from Indonesia. This project aims to classify different types of batik patterns using a deep learning model based on the AlexNet architecture. The model is trained on a dataset of batik patterns to recognize and categorize them accurately. 
+<br>
 • Python <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
+<br>
 • Jupyter Notebook
 • Numpy
+<br>
 • TensorFlow
+<br>
 • Keras
 
 ## Tech Stack
